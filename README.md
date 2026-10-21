@@ -1,5 +1,7 @@
 # Turbo_Net
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23527477.svg)](https://doi.org/10.5281/zenodo.23527477)
+
 MATLAB code for the paper **"Turbo_Net: A lightweight convolutional network for diagnosing lubricating-oil starvation of diesel engine turbochargers from on-engine knock-sensor vibration"**.
 
 Turbo_Net classifies four oil-supply levels of a journal-bearing turbocharger from the vibration measured by four knock sensors. Three sensors are mounted on the turbocharger housing (A, B, C) and one reference sensor on the cylinder-head cover (D).
